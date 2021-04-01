@@ -4,3 +4,9 @@ export function pluralize(name, count) {
   }
   return name + 's'
 }
+
+export function ibdPromise(storeName, method, object) {
+  return new Promise((resolve, reject) => {
+
+  });
+}
