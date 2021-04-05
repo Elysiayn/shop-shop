@@ -4,7 +4,7 @@
 <br>
 
 ## Description
-An e-commerce platform where users have the ability to browse products based on categories and view them on a sinbgle item format. Users will also be able to create accounts that can login and signout. Once signed in users will be able to checkout any products they have added to their account and pay for purchases with their card information. 
+A full-stack MERN e-commerce platform where users have the ability to browse products based on categories and view them on a single item format. Users will also be able to create accounts that can login and sign out. Once signed, in users will be able to checkout any products they have added to their account and pay for purchases with their card information. 
 <br>
 
 ## Table of Contents
