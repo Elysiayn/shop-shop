@@ -15,7 +15,7 @@ An e-commerce platform where users have the ability to browse products based on 
 - [Contribution](#Contribution)
 
 ## Usage
-- Visit deployed site to access application [here]().
+- Visit deployed site to access application [here](https://shielded-reaches-92943.herokuapp.com/).
 - Users must make an account in order to checkout. 
 
 ## Features
@@ -27,7 +27,7 @@ An e-commerce platform where users have the ability to browse products based on 
 - Deployed with Heroku. 
 
 ## Production
-[![Shop-Shop](client/public/images/screenshot.png)](https://github.com/Elysiayn/shop-shop)
+[![Shop-Shop](client/public/images/screenshot.png)](https://shielded-reaches-92943.herokuapp.com/)
 
 ## Questions
 Please feel free to reach out for additional questions at:
